@@ -1,6 +1,6 @@
 # Convertisseur d'Unités - Flutter
 
-![Capture d'écran](screenshot.png)
+![Capture d'écran](Screenshot.png)
 
 Application développée dans le cadre du TP "Miles ou kilomètres" du module Mobile à IMT Nord Europe.
 
