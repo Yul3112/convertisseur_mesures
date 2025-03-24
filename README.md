@@ -1,16 +1,15 @@
-# tp1_convertisseur_mesures
+# Convertisseur d'Unités - Flutter
 
-A new Flutter project.
+![Capture d'écran](screenshot.png)
 
-## Getting Started
+Application développée dans le cadre du TP "Miles ou kilomètres" du module Mobile à IMT Nord Europe.
 
-This project is a starting point for a Flutter application.
+## Fonctionnalités
+- Conversion entre 8 unités (longueur, masse)
+- Interface Material Design
+- Clavier numérique optimisé
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+```bash
+flutter pub get
+flutter run
